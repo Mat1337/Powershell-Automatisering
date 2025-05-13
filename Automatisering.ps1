@@ -5,7 +5,7 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 # Define source and destination paths
-$sourceFolder = "C:\NewFolder"
+$sourceFolder = "C:\Newfolder"
 $destinationFolder = "C:\Programmer\"
 
 # Check if source folder exists
